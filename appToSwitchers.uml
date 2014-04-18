@@ -10,4 +10,5 @@
   <packagedElement xmi:type="uml:UseCase" xmi:id="_sgUwEL43EeOiR-ST6Wj5Zw" name="loop and sync switchers settings to local database"/>
   <packagedElement xmi:type="uml:UseCase" xmi:id="_yAz9IL43EeOiR-ST6Wj5Zw" name="loop and enable proximity"/>
   <packagedElement xmi:type="uml:Actor" xmi:id="_RU-joL44EeOiR-ST6Wj5Zw" name="iphone"/>
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_gUjskMbkEeOl-qaEuhljng" name="Obey David"/>
 </uml:Model>

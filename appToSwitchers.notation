@@ -229,6 +229,29 @@
     <element xmi:type="uml:Actor" href="appToSwitchers.uml#_RU-joL44EeOiR-ST6Wj5Zw"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RVxN0b44EeOiR-ST6Wj5Zw" x="87" y="125"/>
   </children>
+  <children xmi:type="notation:Shape" xmi:id="_ggnLkMbkEeOl-qaEuhljng" type="2013" fontName="Lucida Grande" fontHeight="11" lineColor="0">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ggw8kMbkEeOl-qaEuhljng" source="ShadowFigure">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ggxjoMbkEeOl-qaEuhljng" key="ShadowFigure_Value" value="false"/>
+    </eAnnotations>
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ggxjocbkEeOl-qaEuhljng" source="displayNameLabelIcon">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ggxjosbkEeOl-qaEuhljng" key="displayNameLabelIcon_value" value="false"/>
+    </eAnnotations>
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ggxjo8bkEeOl-qaEuhljng" source="QualifiedName">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ggxjpMbkEeOl-qaEuhljng" key="QualifiedNameDepth" value="1000"/>
+    </eAnnotations>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ggyKsMbkEeOl-qaEuhljng" type="5016"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_ggyKscbkEeOl-qaEuhljng" type="7009">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_ggyKssbkEeOl-qaEuhljng"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_ggyKs8bkEeOl-qaEuhljng"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ggyKtMbkEeOl-qaEuhljng"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_giIOgMbkEeOl-qaEuhljng" visible="false" type="compartment_shape_display">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_giIOgcbkEeOl-qaEuhljng"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_giIOgsbkEeOl-qaEuhljng"/>
+    </children>
+    <element xmi:type="uml:UseCase" href="appToSwitchers.uml#_gUjskMbkEeOl-qaEuhljng"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ggnLkcbkEeOl-qaEuhljng" x="260" y="97"/>
+  </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_85_iob42EeOiR-ST6Wj5Zw"/>
   <element xmi:type="uml:Model" href="appToSwitchers.uml#_sPD2YL42EeOiR-ST6Wj5Zw"/>
 </notation:Diagram>
